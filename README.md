@@ -1,4 +1,5 @@
-# 90% of Git You Will Actually Use (humorous dad quotes courtesy of ChatGPT)
+## 90% of Git You Will Actually Use 
+### (humorous dad quotes courtesy of ChatGPT)
 
 #### Clone a repo (first time) - "I've got a bad feeling about this."
 git clone <repo_url>
