@@ -181,5 +181,3 @@
 
 ### 🎯 Pro Tip: *"When in doubt, `git status` it out!"*
 
-
-*Always remember: "Commit early, commit often, for code abandoned is code lost."*
