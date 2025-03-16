@@ -6,6 +6,7 @@
     ```git clone <repo_url>```
 
 - **Check the current repo status** *"Don't Panic."*
+
     ```git status```
 
 - **Add all changes to the staging area** *"Do or do not. There is no try."*
