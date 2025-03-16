@@ -1,4 +1,4 @@
-### 90% of Git Which You Will Actually Use 
+### 90% of The Git Which You Will Actually Use 
 ##### (Dad jokes courtesy of ChatGPT)
 
 # 🚀 Git Essentials for Absolute Beginners
