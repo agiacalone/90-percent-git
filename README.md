@@ -1,35 +1,46 @@
 ### 90% of Git You Will Actually Use 
-##### (humorous dad quotes courtesy of ChatGPT)
+##### (Dad jokes courtesy of ChatGPT)
 
-#### Clone a repo (first time) - "I've got a bad feeling about this."
-> git clone <repo_url>
+- **Clone a repo (first time)** *"I've got a bad feeling about this."*
 
-#### Check the current repo status - "Don't Panic."
-> git status
+    ```git clone <repo_url>```
 
-#### Add all changes to the staging area - "Do or do not. There is no try."
-> git add .
+- **Check the current repo status** *"Don't Panic."*
+    ```git status```
 
-#### Commit changes with a message - "I am altering the deal. Pray I don’t alter it any further."
-git commit -m ""
+- **Add all changes to the staging area** *"Do or do not. There is no try."*
 
-#### Push changes to GitHub - "Off it goes! May the merge conflicts be ever in your favor."
-git push origin main
+    ```git add .```
 
-#### Pull the latest changes from the remote repo - "Let’s see how bad the damage is before I add my own."
-git pull origin main
+- **Commit changes with a message** *"I am altering the deal. Pray I don’t alter it any further."*
 
-#### Create a new branch - "It's dangerous to go alone! Take this."
-git checkout -b feature-branch
+    ```git commit -m "<a_short_summary_of_changes>"```
 
-#### Merge changes from a branch into main - "I know this ship like the back of my hand."
-git checkout main
-git merge feature-branch
+- **Push changes to GitHub** *"Off it goes! May the merge conflicts be ever in your favor."*
 
-#### Undo the last commit (soft reset) - "Great Scott!"
-git reset --soft HEAD~1
+    ```git push origin main```
 
-#### Undo a commit completely (be careful!) - "I can’t let you do that, Dave."
-git reset --hard HEAD~1
+- **Pull the latest changes from the remote repository** *"Let’s see how bad the damage is before I add my own."*
 
-#### Always remember: "Commit early, commit often, for code abandoned is code lost."
+    ```git pull origin main```
+
+- **Create a new branch** *"It's dangerous to go alone! Take this."*
+
+    ```git checkout -b feature-branch```
+
+- **Merge changes from a branch into main** *"I know this ship like the back of my hand."*
+
+    ```
+    git checkout main
+    git merge feature-branch
+    ```
+
+- **Undo the last commit (soft reset)** *"Great Scott!"*
+
+    ```git reset --soft HEAD~1```
+
+- **Undo a commit completely (be careful!)**  *"I can’t let you do that, Dave."*
+
+    ```git reset --hard HEAD~1```
+
+*Always remember: "Commit early, commit often, for code abandoned is code lost."*
