@@ -1,14 +1,14 @@
-## 90% of Git You Will Actually Use 
-### (humorous dad quotes courtesy of ChatGPT)
+### 90% of Git You Will Actually Use 
+##### (humorous dad quotes courtesy of ChatGPT)
 
 #### Clone a repo (first time) - "I've got a bad feeling about this."
-git clone <repo_url>
+> git clone <repo_url>
 
 #### Check the current repo status - "Don't Panic."
-git status
+> git status
 
 #### Add all changes to the staging area - "Do or do not. There is no try."
-git add .
+> git add .
 
 #### Commit changes with a message - "I am altering the deal. Pray I don’t alter it any further."
 git commit -m ""
