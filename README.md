@@ -15,7 +15,7 @@
 
 - **Commit changes with a message** *"I am altering the deal. Pray I don’t alter it any further."*
 
-    ```git commit -m "<a_short_summary_of_changes>"```
+    ```git commit -m "a short summary of what changed"```
 
 - **Push changes to GitHub** *"Off it goes! May the merge conflicts be ever in your favor."*
 
